@@ -25,14 +25,16 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install requests pandas matplotlib seaborn scipy numpy
+```
 Usage
 1. Fetch Data
 The script fetches a set number of submissions from a given Codeforces user. You can adjust the user handle and the number of submissions in the script.
 
-python
-Copy code
+```python
+
 handle = "khaled40"  # Change to the desired Codeforces handle
 count = 200           # Set the number of submissions to fetch
+```
 2. Data Cleaning
 The script performs the following data cleaning steps:
 
@@ -56,21 +58,22 @@ Countplot of verdicts by problem tags.
 Boxplot of time consumed based on verdicts.
 5. Save Cleaned Data
 After cleaning the data and performing analysis, the script saves the cleaned data into a CSV file for further use.
-
+```
 python
-Copy code
+
 df_cleaned.to_csv('cleaned_user_submissions.csv', index=False)
+```
 This saves the cleaned DataFrame to a file called cleaned_user_submissions.csv.
 
 Example Output
 Chi-Squared Test Results: The p-value will indicate whether there is a significant relationship between problem tags and verdicts.
 
 For example:
-
+```
 text
-Copy code
 Chi-Squared Test P-Value: 0.0000
 There is a significant relationship between Problem Tags and Verdict.
+```
 Visualizations: The script will generate plots that display the distribution of verdicts across different problem tags and the time consumed based on verdicts.
 
 Contributing
@@ -80,10 +83,7 @@ License
 This project is open-source and available under the MIT License.
 
 Feel free to reach out if you have any questions or suggestions.
-
-markdown
-Copy code
-
+```markdown
 ### Key sections in the `README.md`:
 1. **Title and Description**: Introduces the purpose of the project.
 2. **Prerequisites**: Lists the libraries that need to be installed.
@@ -96,4 +96,4 @@ Copy code
 9. **Contributing**: Invites others to contribute to the project.
 10. **License**: States the project's open-source license.
 
-This format will make it clear for others to understand the project and how to use it. You can copy 
+This format will make it clear for others to understand the project and how to use it. You can copy ```
