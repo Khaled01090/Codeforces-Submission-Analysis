@@ -75,25 +75,3 @@ Chi-Squared Test P-Value: 0.0000
 There is a significant relationship between Problem Tags and Verdict.
 ```
 Visualizations: The script will generate plots that display the distribution of verdicts across different problem tags and the time consumed based on verdicts.
-
-Contributing
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
-
-License
-This project is open-source and available under the MIT License.
-
-Feel free to reach out if you have any questions or suggestions.
-```markdown
-### Key sections in the `README.md`:
-1. **Title and Description**: Introduces the purpose of the project.
-2. **Prerequisites**: Lists the libraries that need to be installed.
-3. **Usage**: Provides details on how to run the script and what it does.
-4. **Data Cleaning**: Explains the steps of cleaning the data, including null removal, duplicates, outliers, and inconsistent values.
-5. **Statistical Analysis**: Describes the Chi-Squared test and its hypotheses.
-6. **Data Visualization**: Mentions the types of visualizations the script generates.
-7. **Saving Cleaned Data**: Explains how to save the cleaned dataset.
-8. **Example Output**: Shows what kind of results the user can expect.
-9. **Contributing**: Invites others to contribute to the project.
-10. **License**: States the project's open-source license.
-
-This format will make it clear for others to understand the project and how to use it. You can copy ```
