@@ -1,0 +1,594 @@
+Submission ID,Contest ID,Problem Index,Problem Name,Problem Tags,Programming Language,Verdict,Time Consumed (ms),Memory Consumed (bytes),Points
+331846927,2130,B,Pathless,constructive algorithms,"C++23 (GCC 14-64, msys2)",SKIPPED,93,0,N/A
+331810690,2130,A,Submission is All You Need,"greedy, math","C++23 (GCC 14-64, msys2)",SKIPPED,62,0,N/A
+328240135,100814,G,It is all about wisdom,,"C++23 (GCC 14-64, msys2)",OK,5467,7680000,N/A
+328122505,20,C,Dijkstra?,"graphs, shortest paths","C++23 (GCC 14-64, msys2)",OK,108,4608000,N/A
+327599732,1364,B,Most socially-distanced subsequence,"greedy, two pointers","C++23 (GCC 14-64, msys2)",OK,78,102400,N/A
+327595266,1364,B,Most socially-distanced subsequence,"greedy, two pointers","C++23 (GCC 14-64, msys2)",WRONG_ANSWER,30,0,N/A
+327581041,1365,A,Matrix Game,"games, greedy, implementation","C++23 (GCC 14-64, msys2)",OK,77,102400,N/A
+327265872,1366,A,Shovels and Swords,"binary search, greedy, math","C++23 (GCC 14-64, msys2)",OK,46,102400,N/A
+326712895,33,B,String Problem,shortest paths,"C++23 (GCC 14-64, msys2)",OK,124,102400,N/A
+326712844,33,B,String Problem,shortest paths,"C++23 (GCC 14-64, msys2)",COMPILATION_ERROR,0,0,N/A
+326712792,33,B,String Problem,shortest paths,C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+325826165,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2500,0,N/A
+325825845,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+325825400,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),MEMORY_LIMIT_EXCEEDED,1421,268390400,N/A
+325824857,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+325823047,2112,B,Shrinking Array,"brute force, greedy",C++20 (GCC 13-64),OK,124,102400,N/A
+325816124,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+325813833,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+325812612,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+325811012,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,31,102400,N/A
+325807260,2112,C,Coloring Game,"binary search, brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+325779332,2112,B,Shrinking Array,"brute force, greedy",C++20 (GCC 13-64),WRONG_ANSWER,327,0,N/A
+325768093,2112,B,Shrinking Array,"brute force, greedy",C++20 (GCC 13-64),WRONG_ANSWER,264,102400,N/A
+325716383,2112,A,Race,"implementation, math",C++20 (GCC 13-64),OK,46,0,N/A
+325693854,1365,B,Trouble Sort,"constructive algorithms, implementation",C++20 (GCC 13-64),OK,77,102400,N/A
+325692146,1365,B,Trouble Sort,"constructive algorithms, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,102400,N/A
+317725978,431,C,k-Tree,"dp, implementation, trees",C++20 (GCC 13-64),OK,78,102400,N/A
+317725645,431,C,k-Tree,"dp, implementation, trees",C++20 (GCC 13-64),OK,93,4096000,N/A
+317725422,431,C,k-Tree,"dp, implementation, trees",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,0,N/A
+317722972,118,D,Caesar's Legions,dp,C++20 (GCC 13-64),OK,124,5017600,N/A
+317722735,118,D,Caesar's Legions,dp,C++20 (GCC 13-64),WRONG_ANSWER,124,5017600,N/A
+317652151,34,D,Road Map,"dfs and similar, graphs",C++20 (GCC 13-64),OK,140,102400,N/A
+317617653,520,B,Two Buttons,"dfs and similar, graphs, greedy, implementation, math, shortest paths",C++20 (GCC 13-64),OK,62,102400,N/A
+317611307,520,B,Two Buttons,"dfs and similar, graphs, greedy, implementation, math, shortest paths",C++20 (GCC 13-64),RUNTIME_ERROR,983,265216000,N/A
+316277174,2096,B,Wonderful Gloves,"greedy, math, sortings",C++20 (GCC 13-64),OK,140,3788800,N/A
+316251816,2096,A,Wonderful Sticks,"constructive algorithms, greedy",C++20 (GCC 13-64),OK,62,102400,N/A
+315890250,996,A,Hit the Lottery,"dp, greedy",C++20 (GCC 13-64),RUNTIME_ERROR,655,265216000,N/A
+315890049,996,A,Hit the Lottery,"dp, greedy",C++20 (GCC 13-64),RUNTIME_ERROR,46,4096000,N/A
+315889456,996,A,Hit the Lottery,"dp, greedy",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,0,N/A
+315808634,1421,A,XORwice,"bitmasks, greedy, math",C++20 (GCC 13-64),OK,61,102400,N/A
+315804817,1682,B,AND Sorting,"bitmasks, constructive algorithms, sortings",C++20 (GCC 13-64),OK,78,0,N/A
+315460992,2094,D,Tung Tung Sahur,"greedy, strings, two pointers",C++20 (GCC 13-64),OK,62,102400,N/A
+315450662,2094,H,La Vaca Saturno Saturnita,"binary search, brute force, math, number theory",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,4000,0,N/A
+315434719,2094,E,Boneca Ambalabu,bitmasks,C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+315423709,2094,D,Tung Tung Sahur,"greedy, strings, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+315397011,2094,C,Brr Brrr Patapim,math,C++20 (GCC 13-64),OK,155,102400,N/A
+315383852,2094,C,Brr Brrr Patapim,math,C++20 (GCC 13-64),WRONG_ANSWER,31,102400,N/A
+315365469,2094,B,Bobritto Bandito,"brute force, constructive algorithms",C++20 (GCC 13-64),OK,46,0,N/A
+315334774,2094,B,Bobritto Bandito,"brute force, constructive algorithms",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+315314867,2094,A,Trippi Troppi,strings,C++20 (GCC 13-64),OK,46,0,N/A
+314722561,2092,C,Asuna and the Mosquitoes,"constructive algorithms, greedy, math",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,1331200,N/A
+314722456,2092,C,Asuna and the Mosquitoes,"constructive algorithms, greedy, math",C++20 (GCC 13-64),RUNTIME_ERROR,905,265011200,N/A
+314722344,2092,C,Asuna and the Mosquitoes,"constructive algorithms, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,61,0,N/A
+314717857,2092,B,Lady Bug,"brute force, constructive algorithms, implementation, math",C++20 (GCC 13-64),OK,46,102400,N/A
+314717817,2092,C,Asuna and the Mosquitoes,"constructive algorithms, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+314716663,2092,B,Lady Bug,"brute force, constructive algorithms, implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+314716498,2092,B,Lady Bug,"brute force, constructive algorithms, implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+314714317,2092,A,Kamilka and the Sheep,"greedy, math, number theory, sortings",C++20 (GCC 13-64),OK,62,0,N/A
+309517730,29,C,Mail Stamps,"data structures, dfs and similar, graphs, implementation",C++20 (GCC 13-64),OK,904,30924800,N/A
+305868588,1722,D,Line,"greedy, sortings",C++20 (GCC 13-64),OK,77,0,N/A
+305868072,1722,F,L-shapes,"dfs and similar, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+305867918,1722,F,L-shapes,"dfs and similar, implementation",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+305867609,1722,F,L-shapes,"dfs and similar, implementation",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+305867377,1722,F,L-shapes,"dfs and similar, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+305867231,1722,F,L-shapes,"dfs and similar, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+305866912,1722,F,L-shapes,"dfs and similar, implementation",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+305865143,1722,E,Counting Rectangles,"brute force, data structures, dp, implementation",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,6000,40038400,N/A
+305862083,1722,A,Spell Check,implementation,C++20 (GCC 13-64),WRONG_ANSWER,61,0,N/A
+305861803,1722,A,Spell Check,implementation,C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+305861616,1722,A,Spell Check,implementation,C++20 (GCC 13-64),OK,46,40140800,N/A
+305861116,1722,A,Spell Check,implementation,C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+305860863,1722,A,Spell Check,implementation,C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+305860067,1722,C,Word Game,"data structures, implementation",C++20 (GCC 13-64),OK,265,102400,N/A
+305858650,1722,A,Spell Check,implementation,C++20 (GCC 13-64),WRONG_ANSWER,46,40140800,N/A
+305858034,1722,B,Colourblindness,implementation,C++20 (GCC 13-64),OK,61,0,N/A
+303510074,2062,B,Clockwork,"greedy, math",C++20 (GCC 13-64),OK,187,0,N/A
+303508846,2062,B,Clockwork,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+303506883,2062,B,Clockwork,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+303505134,2062,A,String,"constructive algorithms, greedy, math, strings",C++20 (GCC 13-64),OK,46,0,N/A
+299415477,2047,B,Replace Character,"brute force, combinatorics, greedy, strings",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+299415382,2047,B,Replace Character,"brute force, combinatorics, greedy, strings",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,132608000,N/A
+299414624,2044,A,Easy Problem,"brute force, math",C++20 (GCC 13-64),OK,46,0,N/A
+294058239,2034,D,Darius' Wisdom,"constructive algorithms, greedy, implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+294027055,2034,B,Rakhsh's Revival,"data structures, greedy, implementation, two pointers",C++20 (GCC 13-64),OK,62,102400,N/A
+294026085,2034,B,Rakhsh's Revival,"data structures, greedy, implementation, two pointers",C++20 (GCC 13-64),RUNTIME_ERROR,31,0,N/A
+294022578,2034,B,Rakhsh's Revival,"data structures, greedy, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,61,0,N/A
+294009792,2034,A,King Keykhosrow's Mystery,"brute force, chinese remainder theorem, math, number theory",C++20 (GCC 13-64),OK,483,102400,N/A
+292022512,29,C,Mail Stamps,"data structures, dfs and similar, graphs, implementation",C++20 (GCC 13-64),OK,936,21094400,N/A
+291983901,29,C,Mail Stamps,"data structures, dfs and similar, graphs, implementation",C++20 (GCC 13-64),WRONG_ANSWER,92,102400,N/A
+291841373,246,D,Colorful Graph,"brute force, dfs and similar, graphs",C++20 (GCC 13-64),OK,468,26931200,N/A
+291841244,246,D,Colorful Graph,"brute force, dfs and similar, graphs",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+291841202,246,D,Colorful Graph,"brute force, dfs and similar, graphs",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+291840698,246,D,Colorful Graph,"brute force, dfs and similar, graphs",C++20 (GCC 13-64),WRONG_ANSWER,92,102400,N/A
+290215981,1213,B,Bad Prices,"data structures, implementation",C++20 (GCC 13-64),OK,62,0,N/A
+290215488,1213,B,Bad Prices,"data structures, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288646509,96,B,Lucky Numbers (easy),"binary search, bitmasks, brute force",C++20 (GCC 13-64),OK,124,3993600,N/A
+288645951,96,B,Lucky Numbers (easy),"binary search, bitmasks, brute force",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,102400,N/A
+288645869,96,B,Lucky Numbers (easy),"binary search, bitmasks, brute force",C++20 (GCC 13-64),RUNTIME_ERROR,1154,265011200,N/A
+288645338,96,B,Lucky Numbers (easy),"binary search, bitmasks, brute force",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,102400,N/A
+288645071,96,B,Lucky Numbers (easy),"binary search, bitmasks, brute force",C++20 (GCC 13-64),RUNTIME_ERROR,998,265011200,N/A
+288644891,96,B,Lucky Numbers (easy),"binary search, bitmasks, brute force",C++20 (GCC 13-64),RUNTIME_ERROR,998,265011200,N/A
+288608542,2026,B,Black Cells,"binary search, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288602517,2026,B,Black Cells,"binary search, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,61,0,N/A
+288601600,2026,B,Black Cells,"binary search, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,31,102400,N/A
+288600900,2026,B,Black Cells,"binary search, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288600064,2026,B,Black Cells,"binary search, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288592054,2026,B,Black Cells,"binary search, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288591489,2026,B,Black Cells,"binary search, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288582497,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),OK,62,102400,N/A
+288576205,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,102400,N/A
+288557623,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+288554274,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,30,3993600,N/A
+288550262,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+288545246,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288542809,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288541197,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288537626,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+288530050,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,61,102400,N/A
+288526861,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+288520055,2026,A,Perpendicular Segments,"constructive algorithms, geometry, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+285895580,2025,B,"Binomial Coefficients, Kind Of","combinatorics, dp, math",C++20 (GCC 13-64),RUNTIME_ERROR,203,428339200,N/A
+285895201,2025,B,"Binomial Coefficients, Kind Of","combinatorics, dp, math",C++20 (GCC 13-64),MEMORY_LIMIT_EXCEEDED,405,536883200,N/A
+285855232,2025,A,Two Screens,"binary search, greedy, strings, two pointers",C++20 (GCC 13-64),OK,46,0,N/A
+285737087,2022,B,Kar Salesman,"binary search, greedy, math",C++20 (GCC 13-64),OK,187,102400,N/A
+285736275,2022,B,Kar Salesman,"binary search, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,155,102400,N/A
+285734885,2022,B,Kar Salesman,"binary search, greedy, math",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,4300800,N/A
+285730797,2022,A,Bus to Pénjamo,"constructive algorithms, greedy, implementation, math",C++20 (GCC 13-64),OK,77,0,N/A
+285311062,1111,B,Average Superhero Gang Power ,"brute force, implementation, math",C++20 (GCC 13-64),OK,78,614400,N/A
+285310540,1111,B,Average Superhero Gang Power ,"brute force, implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,109,819200,N/A
+285309291,1111,B,Average Superhero Gang Power ,"brute force, implementation, math",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,102400,N/A
+285304794,1111,B,Average Superhero Gang Power ,"brute force, implementation, math",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,0,N/A
+285266471,1213,C,Book Reading,math,C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,0,N/A
+285265528,1213,C,Book Reading,math,C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,0,N/A
+285264636,1214,B,Badges,"brute force, math",C++20 (GCC 13-64),OK,62,102400,N/A
+285264493,1214,B,Badges,"brute force, math",C++20 (GCC 13-64),WRONG_ANSWER,46,102400,N/A
+284309062,1870,B,Friendly Arrays,"bitmasks, greedy, math",C++20 (GCC 13-64),OK,156,102400,N/A
+284287998,1991,B,AND Reconstruction,"bitmasks, constructive algorithms, greedy",C++20 (GCC 13-64),OK,77,102400,N/A
+284287848,1991,B,AND Reconstruction,"bitmasks, constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+284216096,1903,B,StORage room,"bitmasks, brute force, constructive algorithms, greedy",C++20 (GCC 13-64),OK,187,716800,N/A
+284205534,1349,A,Orac and LCM,"data structures, math, number theory",C++20 (GCC 13-64),OK,390,6144000,N/A
+284204882,1203,B,Equal Rectangles,"greedy, math",C++20 (GCC 13-64),OK,92,102400,N/A
+284091969,1203,C,Common Divisors,"implementation, math",C++20 (GCC 13-64),OK,155,102400,N/A
+284087480,1205,A,Almost Equal,"constructive algorithms, greedy, math",C++20 (GCC 13-64),OK,62,1126400,N/A
+284045083,1847,B,Hamon Odyssey,"bitmasks, greedy, two pointers",C++20 (GCC 13-64),OK,92,102400,N/A
+284044303,1847,B,Hamon Odyssey,"bitmasks, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+284036681,1805,A,We Need the Zero,"bitmasks, brute force",C++20 (GCC 13-64),OK,61,0,N/A
+284033746,1805,A,We Need the Zero,"bitmasks, brute force",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,0,N/A
+283579872,1805,A,We Need the Zero,"bitmasks, brute force",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+283557308,1635,A,Min Or Sum,"bitmasks, greedy",C++20 (GCC 13-64),OK,78,102400,N/A
+283556251,1843,C,Sum in Binary Tree,"bitmasks, combinatorics, math, trees",C++20 (GCC 13-64),OK,62,0,N/A
+283408294,1203,B,Equal Rectangles,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+283408042,1203,B,Equal Rectangles,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,30,102400,N/A
+283406801,1203,B,Equal Rectangles,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,77,102400,N/A
+283367195,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),OK,77,102400,N/A
+283366924,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+283366599,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+283365696,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+283363001,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,61,0,N/A
+283362279,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+282971483,1349,A,Orac and LCM,"data structures, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+282643530,1382,A,Common Subsequence,brute force,C++20 (GCC 13-64),OK,46,102400,N/A
+282642526,1382,A,Common Subsequence,brute force,C++20 (GCC 13-64),WRONG_ANSWER,62,102400,N/A
+282642282,1382,A,Common Subsequence,brute force,C++20 (GCC 13-64),WRONG_ANSWER,31,102400,N/A
+282633840,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),OK,154,102400,N/A
+282585932,1133,C,Balanced Team,"sortings, two pointers",C++20 (GCC 13-64),OK,93,1433600,N/A
+281920462,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),OK,62,307200,N/A
+281919986,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,30,102400,N/A
+281919776,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+281919650,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+281919491,1692,E,Binary Deque,"binary search, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+281733811,600,B,Queries about less or equal elements,"binary search, data structures, sortings, two pointers",C++20 (GCC 13-64),OK,155,102400,N/A
+281714531,381,A,Sereja and Dima,"greedy, implementation, two pointers",C++20 (GCC 13-64),OK,93,102400,N/A
+281365564,2005,B2,The Strict Teacher (Hard Version),"binary search, greedy, math, sortings",C++20 (GCC 13-64),OK,171,204800,N/A
+281365512,2005,B2,The Strict Teacher (Hard Version),"binary search, greedy, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+281359314,2005,B2,The Strict Teacher (Hard Version),"binary search, greedy, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+281356195,2005,B2,The Strict Teacher (Hard Version),"binary search, greedy, math, sortings",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1500,102400,N/A
+281355597,2005,B2,The Strict Teacher (Hard Version),"binary search, greedy, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,109,0,N/A
+281355477,2005,B2,The Strict Teacher (Hard Version),"binary search, greedy, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,109,0,N/A
+281354866,2005,B1,The Strict Teacher (Easy Version),"greedy, math, sortings",C++20 (GCC 13-64),OK,124,0,N/A
+281354675,2005,B1,The Strict Teacher (Easy Version),"greedy, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,109,0,N/A
+281195655,2005,A,Simple Palindrome,"combinatorics, constructive algorithms, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+281166103,2005,A,Simple Palindrome,"combinatorics, constructive algorithms, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+281153272,2005,A,Simple Palindrome,"combinatorics, constructive algorithms, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+281035360,1207,B,Square Filling,"constructive algorithms, greedy, implementation",C++20 (GCC 13-64),OK,62,102400,N/A
+281035153,1207,B,Square Filling,"constructive algorithms, greedy, implementation",C++20 (GCC 13-64),OK,108,102400,N/A
+281033575,1207,B,Square Filling,"constructive algorithms, greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+280124101,2009,D,Satyam and Counting,"geometry, math",C++20 (GCC 13-64),OK,124,102400,N/A
+280123984,2009,D,Satyam and Counting,"geometry, math",C++20 (GCC 13-64),WRONG_ANSWER,78,0,N/A
+280119157,2009,D,Satyam and Counting,"geometry, math",C++20 (GCC 13-64),WRONG_ANSWER,93,102400,N/A
+279942433,2008,C,Longest Good Array,"binary search, brute force, math",C++20 (GCC 13-64),OK,452,102400,N/A
+279942296,2008,C,Longest Good Array,"binary search, brute force, math",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+279932209,2008,B,Square or Not,"brute force, math, strings",C++20 (GCC 13-64),OK,46,0,N/A
+279929330,2008,A,Sakurako's Exam,"brute force, constructive algorithms, greedy, math",C++20 (GCC 13-64),OK,46,102400,N/A
+279928956,2008,A,Sakurako's Exam,"brute force, constructive algorithms, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+279799826,2009,C,The Legend of Freya the Frog,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,155,102400,N/A
+279637272,2009,C,The Legend of Freya the Frog,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,171,0,N/A
+279625041,2009,C,The Legend of Freya the Frog,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,171,102400,N/A
+279621863,2009,C,The Legend of Freya the Frog,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,155,0,N/A
+279620023,2009,C,The Legend of Freya the Frog,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+279615106,2009,C,The Legend of Freya the Frog,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,171,0,N/A
+279612594,2009,C,The Legend of Freya the Frog,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,140,0,N/A
+279601670,2009,C,The Legend of Freya the Frog,"implementation, math","C++23 (GCC 14-64, msys2)",WRONG_ANSWER,140,0,N/A
+279592512,2009,C,The Legend of Freya the Frog,"implementation, math","C++23 (GCC 14-64, msys2)",WRONG_ANSWER,140,0,N/A
+279571278,2009,B,osu!mania,"brute force, implementation","C++23 (GCC 14-64, msys2)",OK,30,0,N/A
+279570238,2009,B,osu!mania,"brute force, implementation","C++23 (GCC 14-64, msys2)",OK,46,0,N/A
+279560948,2009,A,Minimize!,"brute force, math","C++23 (GCC 14-64, msys2)",OK,46,0,N/A
+278694039,1970,A1,Balanced Shuffle (Easy),"implementation, sortings",C++20 (GCC 13-64),OK,109,7782400,N/A
+278693119,1970,A1,Balanced Shuffle (Easy),"implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+278692111,1970,A1,Balanced Shuffle (Easy),"implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,62,102400,N/A
+278691159,1970,A1,Balanced Shuffle (Easy),"implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,30,102400,N/A
+278174393,2003,A,Turtle and Good Strings,"greedy, strings",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+278130794,2003,A,Turtle and Good Strings,"greedy, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+278123999,2003,B,Turtle and Piggy Are Playing a Game 2,"games, greedy, sortings",C++20 (GCC 13-64),OK,77,102400,N/A
+278109517,2003,A,Turtle and Good Strings,"greedy, strings",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+278108573,2003,A,Turtle and Good Strings,"greedy, strings",C++20 (GCC 13-64),RUNTIME_ERROR,46,0,N/A
+278103868,2003,A,Turtle and Good Strings,"greedy, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,102400,N/A
+278102854,2003,A,Turtle and Good Strings,"greedy, strings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+278086206,2003,A,Turtle and Good Strings,"greedy, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+277964010,581,C,Developing Skills,"implementation, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+277963612,581,C,Developing Skills,"implementation, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,102400,N/A
+277962403,581,C,Developing Skills,"implementation, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,61,0,N/A
+277962186,581,C,Developing Skills,"implementation, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+277833677,1594,C,Make Them Equal,"brute force, greedy, math, strings",C++20 (GCC 13-64),OK,62,102400,N/A
+277833339,1594,C,Make Them Equal,"brute force, greedy, math, strings",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,0,N/A
+277831316,1594,C,Make Them Equal,"brute force, greedy, math, strings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+277831104,1594,C,Make Them Equal,"brute force, greedy, math, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+277818424,158,A,Next Round,"*special, implementation",C++20 (GCC 13-64),OK,154,102400,N/A
+277817537,158,A,Next Round,"*special, implementation",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+277817432,158,A,Next Round,"*special, implementation",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+277680294,2001,D,Longest Max Min Subsequence,"brute force, constructive algorithms, data structures, greedy, implementation",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,24883200,N/A
+277554143,1826,B,Lunatic Never Content,"math, number theory",C++20 (GCC 13-64),OK,78,0,N/A
+277553197,1826,B,Lunatic Never Content,"math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,46,102400,N/A
+277553060,1826,B,Lunatic Never Content,"math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+277552151,1826,B,Lunatic Never Content,"math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+277551988,1826,B,Lunatic Never Content,"math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+277550748,1826,B,Lunatic Never Content,"math, number theory",C++20 (GCC 13-64),RUNTIME_ERROR,46,0,N/A
+277519884,1349,A,Orac and LCM,"data structures, math, number theory",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,3000,0,N/A
+277518932,1349,A,Orac and LCM,"data structures, math, number theory",C++20 (GCC 13-64),MEMORY_LIMIT_EXCEEDED,874,268390400,N/A
+277518576,1349,A,Orac and LCM,"data structures, math, number theory",C++20 (GCC 13-64),RUNTIME_ERROR,15,0,N/A
+277392897,2001,C,Guess The Tree,"binary search, brute force, dfs and similar, divide and conquer, dsu, greedy, interactive, trees",C++20 (GCC 13-64),IDLENESS_LIMIT_EXCEEDED,46,0,N/A
+277391193,2001,C,Guess The Tree,"binary search, brute force, dfs and similar, divide and conquer, dsu, greedy, interactive, trees",C++20 (GCC 13-64),IDLENESS_LIMIT_EXCEEDED,0,0,N/A
+277389089,2001,C,Guess The Tree,"binary search, brute force, dfs and similar, divide and conquer, dsu, greedy, interactive, trees",C++20 (GCC 13-64),IDLENESS_LIMIT_EXCEEDED,0,0,N/A
+277374954,2001,B,Generate Permutation,constructive algorithms,C++20 (GCC 13-64),OK,62,0,N/A
+277370387,2001,B,Generate Permutation,constructive algorithms,C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+277340189,2001,A,Make All Equal,"greedy, implementation",C++20 (GCC 13-64),OK,61,0,N/A
+276684081,2004,B,Game with Doors,"brute force, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+276674116,2004,C,Splitting Items,"games, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+276671346,2004,C,Splitting Items,"games, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+276667697,2004,C,Splitting Items,"games, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+276665363,2004,C,Splitting Items,"games, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+276663973,2004,C,Splitting Items,"games, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+276657069,2004,C,Splitting Items,"games, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+276630873,2004,B,Game with Doors,"brute force, greedy",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+276622088,2004,B,Game with Doors,"brute force, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+276604542,2004,B,Game with Doors,"brute force, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+276562941,2004,A,Closest Point,"implementation, math",C++20 (GCC 13-64),OK,61,0,N/A
+276459615,1915,F,Greetings,"data structures, divide and conquer, sortings",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+276459436,1915,F,Greetings,"data structures, divide and conquer, sortings",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+276458441,1915,F,Greetings,"data structures, divide and conquer, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+276458104,1915,F,Greetings,"data structures, divide and conquer, sortings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+276296689,2000,D,Right Left Wrong,"greedy, implementation, two pointers",C++20 (GCC 13-64),OK,93,204800,N/A
+276290876,2000,D,Right Left Wrong,"greedy, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,77,0,N/A
+276289915,2000,D,Right Left Wrong,"greedy, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+276287488,2000,D,Right Left Wrong,"greedy, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,1484,0,N/A
+276285430,2000,D,Right Left Wrong,"greedy, implementation, two pointers",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,0,N/A
+276275212,2000,D,Right Left Wrong,"greedy, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,77,0,N/A
+276253800,2000,C,Numeric String Template,"data structures, strings",C++20 (GCC 13-64),OK,108,3584000,N/A
+276217016,2000,B,Seating in a Bus,two pointers,C++20 (GCC 13-64),OK,92,0,N/A
+276209816,2000,B,Seating in a Bus,two pointers,C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+276162883,2000,A,Primary Task,"implementation, math, strings",C++20 (GCC 13-64),OK,46,0,N/A
+276154236,2000,A,Primary Task,"implementation, math, strings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+276109757,1931,C,Make Equal Again,"brute force, greedy, math",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,0,N/A
+276109146,1931,C,Make Equal Again,"brute force, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+276104983,1931,C,Make Equal Again,"brute force, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+275853597,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),OK,124,0,N/A
+275851981,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+275842577,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+275842404,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),WRONG_ANSWER,77,0,N/A
+275840460,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+275839796,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),WRONG_ANSWER,93,0,N/A
+275815495,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),WRONG_ANSWER,77,0,N/A
+275806189,2002,A,Distanced Coloring,"constructive algorithms, implementation, math",C++20 (GCC 13-64),OK,46,0,N/A
+275788703,2002,B,Removals Game,"constructive algorithms, games",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+275752305,1998,A,Find K Distinct Points with Fixed Center,"constructive algorithms, implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+275592261,1998,B,Minimize Equal Sum Subarrays,"constructive algorithms, math, number theory",C++20 (GCC 13-64),OK,109,0,N/A
+275588563,1998,B,Minimize Equal Sum Subarrays,"constructive algorithms, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+275571706,1998,B,Minimize Equal Sum Subarrays,"constructive algorithms, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+275563190,1998,A,Find K Distinct Points with Fixed Center,"constructive algorithms, implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+275408306,1798,B,Three Sevens,"brute force, data structures, greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+275394794,1807,G2,Subsequence Addition (Hard Version),"bitmasks, dp, greedy, implementation, sortings",C++20 (GCC 13-64),OK,108,0,N/A
+275394389,1807,G2,Subsequence Addition (Hard Version),"bitmasks, dp, greedy, implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,77,0,N/A
+275384946,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),OK,78,921600,N/A
+275384307,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,0,N/A
+275382954,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+275377979,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+275377788,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+275377646,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+275375682,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+275374915,1702,D,Not a Cheap String,greedy,C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+275312313,1807,G1,Subsequence Addition (Easy Version),"brute force, data structures, dp, greedy, implementation, sortings",C++20 (GCC 13-64),OK,62,0,N/A
+275311953,1807,G1,Subsequence Addition (Easy Version),"brute force, data structures, dp, greedy, implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+275310287,767,A,Snacktower,"data structures, implementation",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+273546814,1997,A,Strong Password,"brute force, implementation, strings",C++20 (GCC 13-64),OK,93,0,N/A
+273527738,1997,A,Strong Password,"brute force, implementation, strings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+273518949,1997,A,Strong Password,"brute force, implementation, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+273479174,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+273477468,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+271749352,105230,A,Areas,,C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+270594502,1201,C,Maximum Median,"binary search, greedy, math, sortings",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,2000,0,N/A
+270594393,1201,C,Maximum Median,"binary search, greedy, math, sortings",C++20 (GCC 13-64),OK,124,102400,N/A
+270593075,1201,C,Maximum Median,"binary search, greedy, math, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+270048338,1992,C,Gorilla and Permutation,"constructive algorithms, math",C++20 (GCC 13-64),OK,77,0,N/A
+269993861,1992,C,Gorilla and Permutation,"constructive algorithms, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+269988592,1992,C,Gorilla and Permutation,"constructive algorithms, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+269980532,1992,C,Gorilla and Permutation,"constructive algorithms, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+269960149,1992,C,Gorilla and Permutation,"constructive algorithms, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+269935382,1992,B,Angry Monk,"greedy, math, sortings",C++20 (GCC 13-64),OK,77,0,N/A
+269908699,1992,A,Only Pluses,"brute force, constructive algorithms, greedy, math, sortings",C++20 (GCC 13-64),OK,46,0,N/A
+269608101,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),OK,154,0,N/A
+269607891,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+269607652,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,124,0,N/A
+269607369,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,122,0,N/A
+269606245,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+269604389,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+269602075,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,124,0,N/A
+269600013,88,C,Trains,"implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,124,0,N/A
+269324562,1983,A,Array Divisibility,"constructive algorithms, math",C++20 (GCC 13-64),OK,46,0,N/A
+268939187,276,C,Little Girl and Maximum Sum,"data structures, greedy, implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+268939092,276,C,Little Girl and Maximum Sum,"data structures, greedy, implementation, sortings",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+268938940,276,C,Little Girl and Maximum Sum,"data structures, greedy, implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+268938877,276,C,Little Girl and Maximum Sum,"data structures, greedy, implementation, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+268936841,276,C,Little Girl and Maximum Sum,"data structures, greedy, implementation, sortings",C++20 (GCC 13-64),OK,218,0,N/A
+268928056,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+268927044,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+268925232,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+268853540,88,C,Trains,"implementation, math, number theory",Python 3,WRONG_ANSWER,92,0,N/A
+268853510,88,C,Trains,"implementation, math, number theory",C++17 (GCC 7-32),WRONG_ANSWER,92,0,N/A
+268853335,88,C,Trains,"implementation, math, number theory",C++17 (GCC 7-32),WRONG_ANSWER,92,0,N/A
+268853285,88,C,Trains,"implementation, math, number theory",C++17 (GCC 7-32),COMPILATION_ERROR,0,0,N/A
+268851455,88,C,Trains,"implementation, math, number theory",C++17 (GCC 7-32),WRONG_ANSWER,154,0,N/A
+268353656,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+268353450,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+268352782,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+268352631,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+268351350,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,124,0,N/A
+268351030,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+268350215,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+268340419,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+268340115,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,154,0,N/A
+268340016,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+268338977,279,B,Books,"binary search, brute force, implementation, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+267204441,1986,B,Matrix Stabilization,"brute force, data structures, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+267204155,1986,B,Matrix Stabilization,"brute force, data structures, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+267203430,1986,B,Matrix Stabilization,"brute force, data structures, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+267203029,1986,B,Matrix Stabilization,"brute force, data structures, greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+267198714,1986,A,X Axis,"brute force, geometry, math, sortings",C++20 (GCC 13-64),OK,46,0,N/A
+267198637,1986,A,X Axis,"brute force, geometry, math, sortings",C++20 (GCC 13-64),OK,46,0,N/A
+267198535,1986,A,X Axis,"brute force, geometry, math, sortings",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+267198385,1986,A,X Axis,"brute force, geometry, math, sortings",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+267198241,1986,A,X Axis,"brute force, geometry, math, sortings",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+265422154,282,A,Bit++,implementation,C++20 (GCC 13-64),OK,46,3993600,N/A
+265114605,282,A,Bit++,implementation,C++20 (GCC 13-64),OK,46,102400,N/A
+265114558,282,A,Bit++,implementation,C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+265114505,282,A,Bit++,implementation,C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+265114435,282,A,Bit++,implementation,C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+264976723,1984,C1,Magnitude (Easy Version),"dp, greedy, math",C++20 (GCC 13-64),OK,93,0,N/A
+264958662,1984,C1,Magnitude (Easy Version),"dp, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+264957800,1984,C1,Magnitude (Easy Version),"dp, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264957552,1984,C1,Magnitude (Easy Version),"dp, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+264954572,1984,C1,Magnitude (Easy Version),"dp, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264954407,1984,C1,Magnitude (Easy Version),"dp, greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264951657,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),OK,77,4096000,N/A
+264949586,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264948903,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264946194,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264945973,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264944175,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264938526,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+264937340,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264934600,1984,B,Large Addition,"implementation, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264907853,1984,A,Strange Splitting,constructive algorithms,C++20 (GCC 13-64),OK,46,0,N/A
+264905183,1984,A,Strange Splitting,constructive algorithms,C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+264902529,1984,A,Strange Splitting,constructive algorithms,C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+264522177,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),OK,46,102400,N/A
+264522157,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+264522143,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+264521986,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264521862,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+264521800,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+264521440,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264521386,1957,A,Stickogon,"constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264448920,1979,B,XOR Sequences,"bitmasks, greedy",C++20 (GCC 13-64),OK,62,102400,N/A
+264434806,1979,A,Guess the Maximum,"brute force, greedy, implementation",C++20 (GCC 13-64),OK,92,0,N/A
+264434189,1979,A,Guess the Maximum,"brute force, greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+264433088,1979,A,Guess the Maximum,"brute force, greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264431956,1979,A,Guess the Maximum,"brute force, greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+264396788,1972,A,Contest Proposal,"brute force, greedy, two pointers",C++20 (GCC 13-64),OK,46,0,N/A
+264395625,1972,A,Contest Proposal,"brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264395552,1972,A,Contest Proposal,"brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264395467,1972,A,Contest Proposal,"brute force, greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+264395249,1972,A,Contest Proposal,"brute force, greedy, two pointers",C++20 (GCC 13-64),TIME_LIMIT_EXCEEDED,1000,0,N/A
+264182496,160,A,Twins,"greedy, sortings",C++20 (GCC 13-64),OK,156,0,N/A
+264182410,160,A,Twins,"greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+264182308,160,A,Twins,"greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,60,0,N/A
+264182256,160,A,Twins,"greedy, sortings",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264181744,1706,A,Another String Minimization Problem,"2-sat, constructive algorithms, greedy, string suffix structures, strings",C++20 (GCC 13-64),OK,77,0,N/A
+264181517,1706,A,Another String Minimization Problem,"2-sat, constructive algorithms, greedy, string suffix structures, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264181478,1706,A,Another String Minimization Problem,"2-sat, constructive algorithms, greedy, string suffix structures, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264181393,1706,A,Another String Minimization Problem,"2-sat, constructive algorithms, greedy, string suffix structures, strings",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264176503,50,A,Domino piling,"greedy, math",C++20 (GCC 13-64),OK,154,102400,N/A
+264176408,50,A,Domino piling,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,92,0,N/A
+264023667,1980,D,GCD-sequence,"greedy, implementation, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+264014278,1980,C,Sofia and the Lost Operations,"constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+264013492,1980,C,Sofia and the Lost Operations,"constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+264012440,1980,C,Sofia and the Lost Operations,"constructive algorithms, greedy",C++20 (GCC 13-64),RUNTIME_ERROR,186,265216000,N/A
+263999298,1980,C,Sofia and the Lost Operations,"constructive algorithms, greedy",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+263996425,1980,B,Choosing Cubes,"sortings, sortings",C++20 (GCC 13-64),OK,62,0,N/A
+263994294,1980,B,Choosing Cubes,"sortings, sortings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263976092,1980,B,Choosing Cubes,"sortings, sortings",C++20 (GCC 13-64),WRONG_ANSWER,61,0,N/A
+263950141,1980,A,Problem Generator,math,C++20 (GCC 13-64),OK,61,0,N/A
+263806979,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263806951,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,102400,N/A
+263806919,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263806719,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+263806045,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263806008,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263805920,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263805805,1971,D,Binary Cut,"dp, greedy, implementation, sortings, strings",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+263800725,1971,C,Clock and Strings,implementation,C++20 (GCC 13-64),OK,46,0,N/A
+263797903,1971,B,Different String,"implementation, strings",C++20 (GCC 13-64),OK,30,0,N/A
+263796836,1971,A,My First Sorting Problem,"implementation, sortings",C++20 (GCC 13-64),OK,31,0,N/A
+263502597,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+263482916,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263482407,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+263481997,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,62,0,N/A
+263481717,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263479322,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+263477504,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+263474299,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263473885,1981,B,Turtle and an Infinite Sequence,"bitmasks, math",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+263357385,1976,B,Increase/Decrease/Copy,"greedy, implementation",Python 3,WRONG_ANSWER,46,0,N/A
+263356640,1976,B,Increase/Decrease/Copy,"greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+263356100,1976,B,Increase/Decrease/Copy,"greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+263355697,1976,B,Increase/Decrease/Copy,"greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,108,0,N/A
+263354404,1976,B,Increase/Decrease/Copy,"greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,78,0,N/A
+263353926,1976,B,Increase/Decrease/Copy,"greedy, implementation",C++20 (GCC 13-64),WRONG_ANSWER,140,0,N/A
+263313425,1976,A,Verify Password,"implementation, sortings, strings",C++20 (GCC 13-64),OK,62,0,N/A
+263312933,1976,A,Verify Password,"implementation, sortings, strings",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+263170111,231,A,Team,"brute force, greedy",C++20 (GCC 13-64),OK,124,0,N/A
+261904103,1974,A,Phone Desktop,"greedy, math",C++20 (GCC 13-64),OK,46,0,N/A
+261902940,1974,A,Phone Desktop,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+261901753,1974,A,Phone Desktop,"greedy, math",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+261883181,1974,B,Symmetric Encoding,"implementation, sortings, strings",C++20 (GCC 13-64),OK,124,0,N/A
+259240502,1968,C,Assembly via Remainders,"constructive algorithms, number theory",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+259199045,1968,B,Prefiquence,"greedy, two pointers",C++20 (GCC 13-64),OK,109,0,N/A
+259198415,1968,B,Prefiquence,"greedy, two pointers",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+259181126,1968,A,Maximize?,"brute force, math, number theory",C++20 (GCC 13-64),OK,62,0,N/A
+257302870,1956,A,Nene's Game,"binary search, brute force, data structures, games, greedy",C++20 (GCC 13-64),OK,46,0,N/A
+257294546,1956,B,Nene and the Card Game,"games, greedy",C++20 (GCC 13-64),OK,77,0,N/A
+257293866,1956,B,Nene and the Card Game,"games, greedy",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+256352211,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,15,0,N/A
+256349736,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,30,0,N/A
+256348797,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+256348016,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+256347431,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+256347052,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),RUNTIME_ERROR,62,0,N/A
+256345959,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+256345711,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+256345262,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),COMPILATION_ERROR,0,0,N/A
+256343836,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,31,0,N/A
+256342946,1954,C,Long Multiplication,"greedy, math, number theory",C++20 (GCC 13-64),WRONG_ANSWER,46,0,N/A
+256284078,1954,A,Painting the Ribbon,"constructive algorithms, greedy, math",C++20 (GCC 13-64),OK,46,0,N/A
+255855335,1955,A,Yogurt Sale,math,C++20 (GCC 13-64),OK,62,0,N/A
+255507762,268,A,Games,brute force,C++20 (GCC 13-64),OK,124,102400,N/A
+255490812,236,A,Boy or Girl,"brute force, implementation, strings",C++20 (GCC 13-64),OK,124,102400,N/A
+255489535,443,A,Anton and Letters,"constructive algorithms, implementation",C++20 (GCC 13-64),OK,61,102400,N/A
+254812007,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),OK,202,102400,N/A
+254811634,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),OK,77,102400,N/A
+254811489,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,77,102400,N/A
+254811396,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,61,102400,N/A
+254811310,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,77,102400,N/A
+254811227,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,62,102400,N/A
+254811079,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,77,102400,N/A
+254810961,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,62,0,N/A
+254810766,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,62,102400,N/A
+254810659,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,77,102400,N/A
+254810305,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,46,0,N/A
+254810025,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,61,0,N/A
+254809722,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,30,0,N/A
+254808794,768,A,Oath of the Night's Watch,"constructive algorithms, sortings",C++17 (GCC 7-32),WRONG_ANSWER,140,0,N/A
+254797980,474,A,Keyboard,implementation,C++17 (GCC 7-32),OK,46,102400,N/A
+254797788,474,A,Keyboard,implementation,C++17 (GCC 7-32),WRONG_ANSWER,46,0,N/A
+254797399,474,A,Keyboard,implementation,C++17 (GCC 7-32),WRONG_ANSWER,30,0,N/A
+254790799,339,A,Helpful Maths,"greedy, implementation, sortings, strings",C++17 (GCC 7-32),OK,92,102400,N/A
+254790729,339,A,Helpful Maths,"greedy, implementation, sortings, strings",C++17 (GCC 7-32),WRONG_ANSWER,62,102400,N/A
+254789421,686,A,Free Ice Cream,"constructive algorithms, implementation",C++17 (GCC 7-32),OK,62,102400,N/A
+254788989,686,A,Free Ice Cream,"constructive algorithms, implementation",C++17 (GCC 7-32),WRONG_ANSWER,61,102400,N/A
+254788921,686,A,Free Ice Cream,"constructive algorithms, implementation",C++17 (GCC 7-32),WRONG_ANSWER,46,102400,N/A
+252448975,160,A,Twins,"greedy, sortings",C++17 (GCC 7-32),WRONG_ANSWER,30,409600,N/A
+252448812,160,A,Twins,"greedy, sortings",C++17 (GCC 7-32),RUNTIME_ERROR,312,268390400,N/A
+252448728,160,A,Twins,"greedy, sortings",C++17 (GCC 7-32),WRONG_ANSWER,0,409600,N/A
+252448389,160,A,Twins,"greedy, sortings",C++17 (GCC 7-32),WRONG_ANSWER,30,409600,N/A
+252021943,294,A,Shaass and Oskols,"implementation, math",C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+252021022,9,A,Die Roll,"math, probabilities",C++17 (GCC 7-32),OK,30,0,N/A
+252020117,9,A,Die Roll,"math, probabilities",C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+252018924,228,A,Is your horseshoe on the other hoof?,implementation,C++17 (GCC 7-32),OK,30,0,N/A
+252018815,228,A,Is your horseshoe on the other hoof?,implementation,C++17 (GCC 7-32),WRONG_ANSWER,30,0,N/A
+252018742,228,A,Is your horseshoe on the other hoof?,implementation,C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+252017560,732,A,Buy a Shovel,"brute force, constructive algorithms, implementation, math",C++17 (GCC 7-32),OK,30,0,N/A
+252017534,732,A,Buy a Shovel,"brute force, constructive algorithms, implementation, math",C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+252017481,732,A,Buy a Shovel,"brute force, constructive algorithms, implementation, math",C++17 (GCC 7-32),OK,15,0,N/A
+252017334,732,A,Buy a Shovel,"brute force, constructive algorithms, implementation, math",C++17 (GCC 7-32),WRONG_ANSWER,919,0,N/A
+252017281,732,A,Buy a Shovel,"brute force, constructive algorithms, implementation, math",C++17 (GCC 7-32),WRONG_ANSWER,15,0,N/A
+252017250,732,A,Buy a Shovel,"brute force, constructive algorithms, implementation, math",C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+251761854,709,A,Juicer,implementation,C++17 (GCC 7-32),OK,140,0,N/A
+251760663,709,A,Juicer,implementation,C++17 (GCC 7-32),WRONG_ANSWER,31,819200,N/A
+251759717,709,A,Juicer,implementation,C++17 (GCC 7-32),WRONG_ANSWER,15,409600,N/A
+251758213,709,A,Juicer,implementation,C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+251756271,709,A,Juicer,implementation,C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+251755070,709,A,Juicer,implementation,C++17 (GCC 7-32),WRONG_ANSWER,15,0,N/A
+251753171,709,A,Juicer,implementation,C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+251728580,734,A,Anton and Danik,"implementation, strings",C++17 (GCC 7-32),OK,31,307200,N/A
+251710625,734,A,Anton and Danik,"implementation, strings",C++17 (GCC 7-32),RUNTIME_ERROR,0,0,N/A
+251709149,734,A,Anton and Danik,"implementation, strings",C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+251707845,734,A,Anton and Danik,"implementation, strings",C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+251701320,677,A,Vanya and Fence,implementation,C++17 (GCC 7-32),OK,15,0,N/A
+251701267,677,A,Vanya and Fence,implementation,C++17 (GCC 7-32),WRONG_ANSWER,0,0,N/A
+250097559,1345,B,Card Constructions,"binary search, brute force, dp, math",C++20 (GCC 11-64),RUNTIME_ERROR,623,268390400,N/A
+250081661,1345,A,Puzzle Pieces,math,C++20 (GCC 11-64),OK,15,0,N/A
+250080236,1345,A,Puzzle Pieces,math,C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+250080050,1345,A,Puzzle Pieces,math,C++20 (GCC 11-64),COMPILATION_ERROR,0,0,N/A
+250079763,1345,A,Puzzle Pieces,math,C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+250079496,1345,A,Puzzle Pieces,math,C++20 (GCC 11-64),WRONG_ANSWER,15,0,N/A
+249089373,1937,A,Shuffle Party,"implementation, math",C++20 (GCC 11-64),MEMORY_LIMIT_EXCEEDED,218,268390400,N/A
+249086275,1937,A,Shuffle Party,"implementation, math",C++20 (GCC 11-64),MEMORY_LIMIT_EXCEEDED,249,268390400,N/A
+249083813,1937,A,Shuffle Party,"implementation, math",C++20 (GCC 11-64),RUNTIME_ERROR,156,268390400,N/A
+249082448,1937,A,Shuffle Party,"implementation, math",C++20 (GCC 11-64),RUNTIME_ERROR,140,268390400,N/A
+249082175,1937,A,Shuffle Party,"implementation, math",C++20 (GCC 11-64),RUNTIME_ERROR,155,268390400,N/A
+249081519,1937,A,Shuffle Party,"implementation, math",C++20 (GCC 11-64),RUNTIME_ERROR,171,268390400,N/A
+249080560,1937,A,Shuffle Party,"implementation, math",C++20 (GCC 11-64),RUNTIME_ERROR,139,268390400,N/A
+248766775,1873,B,Good Kid,"brute force, greedy, math",C++20 (GCC 11-64),OK,31,0,N/A
+248766609,1873,B,Good Kid,"brute force, greedy, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+248766463,1873,B,Good Kid,"brute force, greedy, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+248765952,1873,B,Good Kid,"brute force, greedy, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+248651735,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),OK,889,0,N/A
+248651423,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+248649364,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,546,0,N/A
+248649232,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248649146,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,3744,0,N/A
+248648977,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,2823,0,N/A
+248647479,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248644963,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,4758,0,N/A
+248644774,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,686,0,N/A
+248644692,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248644569,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,4258,0,N/A
+248644466,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248644375,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,2340,0,N/A
+248626427,1933,D,Turtle Tenacity: Continual Mods,"constructive algorithms, greedy, math, number theory, sortings",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+248605934,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,2340,0,N/A
+248601147,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,1872,0,N/A
+248598402,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,936,0,N/A
+248597715,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248596534,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248595094,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248587550,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,1013,0,N/A
+248580165,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,405,0,N/A
+248577634,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),TIME_LIMIT_EXCEEDED,5000,0,N/A
+248576286,1933,C,Turtle Fingers: Count the Values of k,"brute force, implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,15,0,N/A
+248554031,1933,B,Turtle Math: Fast Three Task,"implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+248553013,1933,B,Turtle Math: Fast Three Task,"implementation, math, number theory",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+248515823,1933,A,Turtle Puzzle: Rearrange and Negate,"greedy, math, sortings",C++20 (GCC 11-64),OK,31,0,N/A
+248509992,1933,A,Turtle Puzzle: Rearrange and Negate,"greedy, math, sortings",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+246871618,1930,B,Permutation Printing,"brute force, constructive algorithms, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+246871052,1930,B,Permutation Printing,"brute force, constructive algorithms, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+246870311,1930,B,Permutation Printing,"brute force, constructive algorithms, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+246865378,1930,B,Permutation Printing,"brute force, constructive algorithms, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+246856588,1930,A,Maximise The Score,"greedy, sortings",C++20 (GCC 11-64),OK,686,0,N/A
+246853815,1930,A,Maximise The Score,"greedy, sortings",C++20 (GCC 11-64),RUNTIME_ERROR,0,0,N/A
+246853272,1930,A,Maximise The Score,"greedy, sortings",C++20 (GCC 11-64),WRONG_ANSWER,15,0,N/A
+246564005,1929,B,Sasha and the Drawing,"constructive algorithms, greedy, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+246562622,1929,B,Sasha and the Drawing,"constructive algorithms, greedy, math",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+246532925,1929,B,Sasha and the Drawing,"constructive algorithms, greedy, math",C++20 (GCC 11-64),WRONG_ANSWER,15,0,N/A
+246512755,1929,A,Sasha and the Beautiful Array,"constructive algorithms, greedy, math, sortings",C++20 (GCC 11-64),OK,93,0,N/A
+244164901,71,A,Way Too Long Words,strings,C++20 (GCC 11-64),OK,15,0,N/A
+243833707,469,A,I Wanna Be the Guy,"greedy, implementation",C++20 (GCC 11-64),OK,15,0,N/A
+243803151,469,A,I Wanna Be the Guy,"greedy, implementation",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+243801614,469,A,I Wanna Be the Guy,"greedy, implementation",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+243800799,469,A,I Wanna Be the Guy,"greedy, implementation",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+243800610,469,A,I Wanna Be the Guy,"greedy, implementation",C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+243324186,1328,A,Divisibility Problem,math,C++20 (GCC 11-64),OK,62,0,N/A
+242925075,705,A,Hulk,implementation,C++20 (GCC 11-64),WRONG_ANSWER,0,0,N/A
+242923740,617,A,Elephant,math,C++20 (GCC 11-64),OK,15,0,N/A
+242744761,4,A,Watermelon,"brute force, math",C++20 (GCC 11-64),OK,30,0,N/A
